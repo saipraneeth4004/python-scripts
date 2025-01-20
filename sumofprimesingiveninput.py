@@ -11,3 +11,5 @@ for i in range(n):
             sum=sum+k
 print(sum)
 
+
+
